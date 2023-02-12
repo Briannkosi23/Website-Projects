@@ -1,0 +1,242 @@
+.inUseFnbChild {
+  position: absolute;
+  top: 166px;
+  left: 42px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gainsboro);
+  box-shadow: 6px 12px 6px rgba(13, 13, 13, 0.05);
+  width: 345px;
+  height: 211.3px;
+  display: none;
+}
+.backgroundChild,
+.holdNearReader {
+  position: absolute;
+  top: 439px;
+  left: 119px;
+}
+.backgroundChild {
+  top: 0;
+  left: 20px;
+  border-radius: 0 0 var(--br-2xs) var(--br-2xs);
+  background-color: var(--color-lightseagreen);
+  width: 10px;
+  height: 20px;
+}
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(137.18deg, #464646, #464646, #000);
+}
+.fnbLogoIcon {
+  position: absolute;
+  height: 82.3%;
+  width: 28.91%;
+  top: 8.85%;
+  right: 5.42%;
+  bottom: 8.85%;
+  left: 65.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cheque {
+  font-weight: 300;
+}
+.privateClientChequeContainer {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+  display: inline-block;
+  width: 208px;
+  height: 23px;
+}
+.div {
+  top: 0;
+}
+.div,
+.div1,
+.mrSSithole {
+  position: absolute;
+  width: calc(100% + 1px);
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.div1 {
+  top: calc(50% - 19px);
+  font-size: var(--font-size-3xs);
+}
+.mrSSithole {
+  bottom: 0;
+  font-size: var(--font-size-xs);
+  letter-spacing: 1.4px;
+}
+.customerDetails {
+  position: absolute;
+  bottom: 19px;
+  left: 30px;
+  width: 258px;
+  height: 94px;
+  font-size: var(--font-size-xl);
+}
+.rfidChipChild {
+  height: calc(100% + 1px);
+  top: -1px;
+  bottom: 0;
+  left: calc(50% + 4px);
+  width: 2px;
+}
+.rfidChipChild,
+.rfidChipInner,
+.rfidChipItem {
+  position: absolute;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.rfidChipItem {
+  height: calc(100% + 1px);
+  top: -1px;
+  bottom: 0;
+  left: calc(50% - 6px);
+  width: 2px;
+}
+.rfidChipInner {
+  width: calc(100% + 1px);
+  top: calc(50% - 31px);
+  right: -20px;
+  left: 19px;
+  height: 41px;
+  transform: rotate(90deg);
+}
+.lineDiv,
+.rfidChipChild1 {
+  position: absolute;
+  top: calc(50% - 1px);
+  border-top: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 16px;
+  height: 2px;
+}
+.lineDiv {
+  right: 0;
+}
+.rfidChipChild1 {
+  left: -1px;
+}
+.rfidChipChild2 {
+  width: calc(100% + 1px);
+  top: calc(50% - 11px);
+  right: -20px;
+  left: 19px;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  height: 41px;
+  transform: rotate(90deg);
+}
+.fnb,
+.rfidChip,
+.rfidChipChild2 {
+  position: absolute;
+}
+.rfidChip {
+  top: calc(50% - 55px);
+  left: 30px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(135deg, #e2c886, #433c2b);
+  width: 40px;
+  height: 40px;
+}
+.fnb {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.fnbWrapper {
+  position: absolute;
+  top: 139px;
+  left: 30px;
+  width: 369px;
+  height: 226px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightgray);
+}
+.component102 {
+  position: absolute;
+  top: 532px;
+  left: 126px;
+  width: 176.67px;
+  height: 120px;
+}
+.component27Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-yellowgreen);
+  box-sizing: border-box;
+}
+.subtraction1Icon {
+  position: absolute;
+  bottom: 2.83px;
+  left: 0;
+  width: 25px;
+  height: 17px;
+}
+.back {
+  position: absolute;
+  width: calc(100% - 16px);
+  top: calc(50% - 12px);
+  left: 17px;
+  display: inline-block;
+}
+.subtraction1Parent {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: 5px;
+  right: 4px;
+  left: 13px;
+  height: 24px;
+}
+.component27,
+.logoIcon {
+  position: absolute;
+  top: 67px;
+}
+.component27 {
+  left: 30px;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+  color: var(--color-yellowgreen);
+}
+.logoIcon {
+  right: 34.15px;
+  width: 88.27px;
+  height: 15px;
+}
+.inUseFnb {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-segoe-ui);
+}

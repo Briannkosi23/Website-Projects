@@ -1,0 +1,256 @@
+.component121Child,
+.profile1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 428px;
+  height: 327px;
+}
+.component121Child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-darkslategray-100);
+}
+.component121 {
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 428px;
+  height: 602px;
+}
+.path1Icon {
+  position: absolute;
+  top: 248px;
+  right: 76px;
+  width: 0;
+  height: 0;
+}
+.component141Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-100);
+  border: 1px solid var(--color-mediumseagreen);
+  box-sizing: border-box;
+}
+.passwordVerification {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 83.5px);
+}
+.component141 {
+  position: absolute;
+  top: 582px;
+  left: 30px;
+  width: 369px;
+  height: 60px;
+  text-align: left;
+}
+.component131Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray-100);
+  border: 2px solid var(--color-lightcoral);
+  box-sizing: border-box;
+}
+.removeAllCards {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 69.5px);
+}
+.component131 {
+  position: absolute;
+  top: 669px;
+  left: 30px;
+  width: 369px;
+  height: 60px;
+  text-align: left;
+  color: var(--color-lightcoral);
+}
+.logoIcon {
+  position: absolute;
+  top: 42px;
+  right: 34.15px;
+  width: 88.27px;
+  height: 15px;
+}
+.oldManIcon {
+  position: absolute;
+  top: 112px;
+  left: 146px;
+  border-radius: var(--br-xl);
+  width: 137px;
+  height: 137px;
+  object-fit: cover;
+}
+.component26Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-yellowgreen);
+  box-sizing: border-box;
+}
+.subtraction1Icon {
+  position: absolute;
+  bottom: 2.83px;
+  left: 0;
+  width: 25px;
+  height: 17px;
+}
+.back {
+  position: absolute;
+  width: calc(100% - 16px);
+  top: calc(50% - 12px);
+  left: 17px;
+  display: inline-block;
+}
+.subtraction1Parent {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: 5px;
+  right: 4px;
+  left: 13px;
+  height: 24px;
+}
+.component26 {
+  position: absolute;
+  top: 32px;
+  left: 30px;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+  color: var(--color-yellowgreen);
+}
+.emailAddress,
+.name {
+  position: absolute;
+  left: 0;
+  opacity: 0.5;
+}
+.name {
+  top: 0;
+}
+.emailAddress {
+  top: calc(50% + 11px);
+}
+.shadrickSithole,
+.shadricks25gmailcom {
+  position: absolute;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+.shadrickSithole {
+  top: calc(50% - 37px);
+}
+.shadricks25gmailcom {
+  bottom: 0;
+}
+.nameParent {
+  position: absolute;
+  top: 380px;
+  left: 30px;
+  width: 174px;
+  height: 140px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-yellowgreen);
+}
+.path108Icon,
+.profile1Item {
+  position: absolute;
+  left: 0;
+  width: 428px;
+}
+.profile1Item {
+  top: 0;
+  background-color: var(--color-gray-300);
+  backdrop-filter: blur(25px) brightness(85%);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  height: 926px;
+}
+.path108Icon {
+  bottom: 0;
+  height: 257px;
+}
+.areYouSure {
+  margin: 0;
+}
+.areYouSureContainer {
+  position: absolute;
+  top: 686px;
+  left: 109px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.yes {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 13px);
+}
+.component132 {
+  position: absolute;
+  right: 29px;
+  bottom: 95px;
+  width: 174px;
+  height: 60px;
+  cursor: pointer;
+  color: var(--color-lightcoral);
+}
+.path109Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.no {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 12px);
+}
+.component133 {
+  position: absolute;
+  bottom: 95px;
+  left: 30px;
+  width: 174px;
+  height: 60px;
+  cursor: pointer;
+}
+.profile1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-mediumseagreen);
+  font-family: var(--font-segoe-ui);
+}

@@ -1,0 +1,256 @@
+.inUseNedbankChild {
+  position: absolute;
+  top: 166px;
+  left: 42px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gainsboro);
+  box-shadow: 6px 12px 6px rgba(13, 13, 13, 0.05);
+  width: 345px;
+  height: 211.3px;
+  display: none;
+}
+.holdNearReader {
+  position: absolute;
+  top: 447px;
+  left: 119px;
+}
+.nedbankPrivateClientChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(137.18deg, #202620, #2e3e2e, #202620);
+}
+.div,
+.div1 {
+  width: calc(100% + 1px);
+  font-weight: 300;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div1 {
+  top: calc(50% + 8.5px);
+  font-size: var(--font-size-3xs);
+}
+.div1,
+.mrSSithole,
+.parent {
+  position: absolute;
+  left: 0;
+}
+.parent {
+  width: 100%;
+  top: 0;
+  right: 0;
+  height: 39px;
+  opacity: 0;
+}
+.mrSSithole {
+  width: calc(100% + 1px);
+  bottom: 0;
+  font-size: var(--font-size-xs);
+  letter-spacing: 1.4px;
+  font-weight: 300;
+  color: var(--color-lightgray);
+  display: inline-block;
+}
+.customerDetails {
+  position: absolute;
+  bottom: 20px;
+  left: 35px;
+  width: 258px;
+  height: 94px;
+}
+.nedbankLogo2022 {
+  position: absolute;
+  right: 24.74px;
+  bottom: 22px;
+  width: 204.94px;
+  height: 136.1px;
+}
+.rfidChipChild {
+  height: calc(100% + 1px);
+  top: -1px;
+  bottom: 0;
+  left: calc(50% + 4px);
+  width: 2px;
+}
+.rfidChipChild,
+.rfidChipInner,
+.rfidChipItem {
+  position: absolute;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.rfidChipItem {
+  height: calc(100% + 1px);
+  top: -1px;
+  bottom: 0;
+  left: calc(50% - 6px);
+  width: 2px;
+}
+.rfidChipInner {
+  width: calc(100% + 1px);
+  top: calc(50% - 31px);
+  right: -20px;
+  left: 19px;
+  height: 41px;
+  transform: rotate(90deg);
+}
+.lineDiv {
+  top: calc(50% - 1px);
+  right: 0;
+  border-top: 1px solid var(--color-dimgray-100);
+  width: 16px;
+  height: 2px;
+}
+.lineDiv,
+.rfidChipChild1,
+.rfidChipChild2 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rfidChipChild1 {
+  top: calc(50% - 1px);
+  left: -1px;
+  border-top: 1px solid var(--color-dimgray-100);
+  width: 16px;
+  height: 2px;
+}
+.rfidChipChild2 {
+  width: calc(100% + 1px);
+  top: calc(50% - 11px);
+  right: -20px;
+  left: 19px;
+  border-right: 1px solid var(--color-dimgray-100);
+  height: 41px;
+  transform: rotate(90deg);
+}
+.rfidChip {
+  position: absolute;
+  top: calc(50% - 55px);
+  left: 39px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(135deg, #e2c886, #433c2b);
+  width: 40px;
+  height: 40px;
+}
+.privateClients {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.creditDebit {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.6px;
+  color: var(--color-forestgreen);
+}
+.privateClientsParent {
+  position: absolute;
+  top: 10px;
+  left: 35px;
+  width: 103px;
+  height: 34px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-200);
+}
+.nedbank {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.nedbankWrapper {
+  position: absolute;
+  top: 139px;
+  left: 30px;
+  width: 369px;
+  height: 226px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.component103 {
+  position: absolute;
+  top: 532px;
+  left: 126px;
+  width: 176.67px;
+  height: 120px;
+}
+.component29Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-yellowgreen);
+  box-sizing: border-box;
+}
+.subtraction1Icon {
+  position: absolute;
+  bottom: 2.83px;
+  left: 0;
+  width: 25px;
+  height: 17px;
+}
+.back {
+  position: absolute;
+  width: calc(100% - 16px);
+  top: calc(50% - 12px);
+  left: 17px;
+  display: inline-block;
+}
+.subtraction1Parent {
+  position: absolute;
+  width: calc(100% - 17px);
+  top: 5px;
+  right: 4px;
+  left: 13px;
+  height: 24px;
+}
+.component29,
+.logoIcon {
+  position: absolute;
+  top: 67px;
+}
+.component29 {
+  left: 30px;
+  width: 100px;
+  height: 35px;
+  cursor: pointer;
+  color: var(--color-yellowgreen);
+}
+.logoIcon {
+  right: 34.15px;
+  width: 88.27px;
+  height: 15px;
+}
+.inUseNedbank {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-segoe-ui);
+}

@@ -1,0 +1,21 @@
+.logoIcon,
+.splashChild {
+  position: absolute;
+  top: 0;
+  left: -51px;
+  width: 590.14px;
+  height: 987px;
+}
+.logoIcon {
+  top: 448px;
+  left: 126px;
+  width: 176.54px;
+  height: 30px;
+}
+.splash {
+  position: relative;
+  background-color: #205d5e;
+  width: 100%;
+  height: 926px;
+  cursor: pointer;
+}

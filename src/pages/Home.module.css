@@ -1,0 +1,630 @@
+.union2Icon {
+  position: absolute;
+  top: -76px;
+  left: 41px;
+  width: 346px;
+  height: 416px;
+}
+.slideLeftOr {
+  position: absolute;
+  top: 101px;
+  left: 79px;
+  color: var(--color-white);
+  text-align: center;
+  opacity: 0.3;
+}
+.logoIcon {
+  position: absolute;
+  top: 60px;
+  left: 169.86px;
+  width: 88.27px;
+  height: 15px;
+}
+.dumbStandardChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(137.18deg, #0033a1, #002445);
+}
+.nedbankLogo2022 {
+  position: absolute;
+  right: 24.74px;
+  bottom: 22px;
+  width: 66.52px;
+  height: 51.75px;
+}
+.rfidChipChild {
+  height: calc(100% + 1px);
+  top: -1px;
+  bottom: 0;
+  left: calc(50% + 4px);
+  width: 2px;
+}
+.rfidChipChild,
+.rfidChipInner,
+.rfidChipItem {
+  position: absolute;
+  border-right: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.rfidChipItem {
+  height: calc(100% + 1px);
+  top: -1px;
+  bottom: 0;
+  left: calc(50% - 6px);
+  width: 2px;
+}
+.rfidChipInner {
+  width: calc(100% + 1px);
+  top: calc(50% - 31px);
+  right: -20px;
+  left: 19px;
+  height: 41px;
+  transform: rotate(90deg);
+}
+.lineDiv {
+  top: calc(50% - 1px);
+  right: 0;
+  border-top: 1px solid var(--color-dimgray-100);
+  width: 16px;
+  height: 2px;
+}
+.lineDiv,
+.rfidChipChild1,
+.rfidChipChild2 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rfidChipChild1 {
+  top: calc(50% - 1px);
+  left: -1px;
+  border-top: 1px solid var(--color-dimgray-100);
+  width: 16px;
+  height: 2px;
+}
+.rfidChipChild2 {
+  width: calc(100% + 1px);
+  top: calc(50% - 11px);
+  right: -20px;
+  left: 19px;
+  border-right: 1px solid var(--color-dimgray-100);
+  height: 41px;
+  transform: rotate(90deg);
+}
+.rfidChip {
+  position: absolute;
+  top: calc(50% - 56px);
+  left: 39px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(135deg, #e2c886, #433c2b);
+  width: 40px;
+  height: 40px;
+}
+.standardBankLogo {
+  position: absolute;
+  width: calc(100% - 38.26px);
+  top: 15px;
+  right: 18.39px;
+  left: 19.86px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 63px;
+}
+.div,
+.div1 {
+  width: calc(100% + 1px);
+  font-weight: 300;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div1 {
+  top: calc(50% + 8.5px);
+  font-size: var(--font-size-3xs);
+}
+.div1,
+.mrSSithole,
+.parent {
+  position: absolute;
+  left: 0;
+}
+.parent {
+  width: 100%;
+  top: 0;
+  right: 0;
+  height: 39px;
+  opacity: 0;
+}
+.mrSSithole {
+  width: calc(100% + 1px);
+  bottom: 0;
+  font-size: var(--font-size-xs);
+  letter-spacing: 1.4px;
+  font-weight: 300;
+  display: inline-block;
+}
+.customerDetails {
+  position: absolute;
+  bottom: 22px;
+  left: 39px;
+  width: 258px;
+  height: 94px;
+}
+.dumbStandard {
+  position: absolute;
+  top: 0;
+  right: 30px;
+  width: 369px;
+  height: 226px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightgray);
+}
+.dumbAbsaChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(135.91deg, #be0028, #82001b);
+}
+.absaLogo2022 {
+  position: absolute;
+  height: calc(100% - 50.88px);
+  top: 28.88px;
+  right: 16.15px;
+  bottom: 22px;
+  max-height: 100%;
+  width: 102.11px;
+}
+.customerDetails1 {
+  position: absolute;
+  bottom: 22px;
+  left: 35px;
+  width: 258px;
+  height: 94px;
+}
+.rfidChip1 {
+  position: absolute;
+  top: calc(50% - 55px);
+  left: 39px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(135deg, #e2c886, #433c2b);
+  width: 40px;
+  height: 40px;
+}
+.personalDebit {
+  position: absolute;
+  top: 19px;
+  left: 35px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.dumbAbsa {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 11px);
+  width: 369px;
+  height: 226px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightgray);
+}
+.backgroundChild {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  border-radius: 0 0 var(--br-2xs) var(--br-2xs);
+  background-color: var(--color-lightseagreen);
+  width: 10px;
+  height: 20px;
+}
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(137.18deg, #464646, #464646, #000);
+}
+.fnbLogoIcon {
+  position: absolute;
+  height: 82.3%;
+  width: 28.91%;
+  top: 8.85%;
+  right: 5.42%;
+  bottom: 8.85%;
+  left: 65.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cheque {
+  font-weight: 300;
+}
+.privateClientChequeContainer {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+  display: inline-block;
+  width: 208px;
+  height: 23px;
+}
+.customerDetails2 {
+  position: absolute;
+  bottom: 19px;
+  left: 30px;
+  width: 258px;
+  height: 94px;
+  font-size: var(--font-size-xl);
+}
+.rfidChipIcon {
+  position: absolute;
+  height: 17.7%;
+  width: 10.84%;
+  top: 25.66%;
+  right: 81.03%;
+  bottom: 56.64%;
+  left: 8.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dumbFnb {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 380px);
+  width: 369px;
+  height: 226px;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightgray);
+}
+.dumbNedbankChild,
+.mrSSithole3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.dumbNedbankChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(137.18deg, #202620, #2e3e2e, #202620);
+}
+.mrSSithole3 {
+  width: calc(100% + 1px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 1.4px;
+  font-weight: 300;
+  color: var(--color-lightgray);
+  display: inline-block;
+}
+.customerDetails3 {
+  position: absolute;
+  bottom: 20px;
+  left: 35px;
+  width: 258px;
+  height: 94px;
+}
+.nedbankLogo20221 {
+  position: absolute;
+  right: 24.74px;
+  bottom: 22px;
+  width: 204.94px;
+  height: 136.1px;
+}
+.privateClients {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.creditDebit {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.6px;
+  color: var(--color-forestgreen);
+}
+.privateClientsParent {
+  position: absolute;
+  top: 10px;
+  left: 35px;
+  width: 103px;
+  height: 34px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-200);
+}
+.dumbNedbankItem {
+  position: absolute;
+  height: calc(100% + 4px);
+  width: calc(100% + 4px);
+  top: -4px;
+  right: 0;
+  bottom: 0;
+  left: -4px;
+  border-radius: var(--br-sm);
+  background-color: rgba(255, 255, 255, 0.25);
+  border: 2px solid var(--color-yellowgreen);
+  box-sizing: border-box;
+  display: none;
+}
+.dumbNedbank {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 369px;
+  height: 226px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.r3556897 {
+  position: absolute;
+  top: calc(50% - 41.5px);
+  left: 0;
+  font-size: var(--font-size-2xl);
+  opacity: 0.35;
+}
+.r1875505 {
+  bottom: 0;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray-100);
+  text-align: center;
+}
+.available,
+.balance,
+.r1875505 {
+  position: absolute;
+  left: 2px;
+}
+.available {
+  top: calc(50% + 4.5px);
+  color: var(--color-darkslategray-100);
+}
+.balance {
+  top: 0;
+  opacity: 0.25;
+}
+.r3556897Parent {
+  position: absolute;
+  bottom: 0;
+  left: 30px;
+  width: 148px;
+  height: 131px;
+}
+.r18755051 {
+  position: absolute;
+  bottom: 0;
+  left: 2px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray-100);
+}
+.available1,
+.balance1 {
+  position: absolute;
+  left: 2px;
+  text-align: left;
+}
+.available1 {
+  top: calc(50% + 4.5px);
+  color: var(--color-darkslategray-100);
+}
+.balance1 {
+  top: 0;
+  opacity: 0.25;
+}
+.r3556897Container,
+.r3556897Group,
+.r3556897Parent1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 380px);
+  width: 148px;
+  height: 131px;
+  text-align: center;
+}
+.r3556897Container,
+.r3556897Parent1 {
+  left: calc(50% + 11px);
+}
+.r3556897Parent1 {
+  left: calc(50% + 402px);
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  background-color: var(--color-white);
+  width: 30px;
+  height: 226px;
+}
+.groupChild {
+  left: 0;
+}
+.groupItem {
+  right: 0;
+}
+.dumbStandardParent {
+  position: absolute;
+  height: 100%;
+  width: calc(100% + 1174px);
+  top: 0;
+  right: -782px;
+  bottom: 0;
+  left: -392px;
+}
+.scrollGroup4 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 428px;
+  height: 401px;
+  overflow-x: auto;
+  mix-blend-mode: normal;
+  color: var(--color-black);
+}
+.homeChild,
+.homeItem {
+  position: absolute;
+  top: 0;
+  background-color: var(--color-gray-300);
+  backdrop-filter: blur(6px) brightness(115%);
+  width: 27px;
+  height: 926px;
+}
+.homeChild {
+  left: 0;
+}
+.homeItem {
+  right: 0;
+}
+.homeInner {
+  position: absolute;
+  top: 50px;
+  right: -9px;
+  width: 88px;
+  height: 88px;
+  cursor: pointer;
+}
+.topsspar {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.r285505 {
+  position: absolute;
+  right: -1px;
+  bottom: 2px;
+  font-size: var(--font-size-lg);
+  text-align: right;
+}
+.fnbCheque {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-2xs);
+}
+.kwaMaiMaiParent,
+.topssparParent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 40px;
+}
+.topssparParent {
+  top: 0;
+}
+.kwaMaiMaiParent {
+  top: calc(50% - 91.5px);
+}
+.r1000000 {
+  position: absolute;
+  right: -1px;
+  bottom: 2px;
+  font-size: var(--font-size-lg);
+  color: var(--color-mediumseagreen);
+  text-align: right;
+}
+.transferParent {
+  top: calc(50% - 25.5px);
+}
+.checkersParent,
+.easyequitiesParent,
+.makroParent,
+.transferParent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 40px;
+}
+.makroParent {
+  top: calc(50% + 40.5px);
+}
+.checkersParent,
+.easyequitiesParent {
+  bottom: 11px;
+}
+.checkersParent {
+  bottom: -55px;
+}
+.budgetInsuranceParent,
+.cashbuildParent,
+.goldWagonParent,
+.spccParent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: -121px;
+  left: 0;
+  height: 40px;
+}
+.budgetInsuranceParent,
+.goldWagonParent,
+.spccParent {
+  bottom: -187px;
+}
+.goldWagonParent,
+.spccParent {
+  bottom: -253px;
+}
+.spccParent {
+  bottom: -319px;
+}
+.scrollGroup5 {
+  position: absolute;
+  bottom: 18px;
+  left: 27px;
+  width: 374px;
+  height: 315px;
+  overflow-y: auto;
+  mix-blend-mode: normal;
+}
+.allTransactions {
+  position: absolute;
+  top: 572px;
+  right: 26px;
+  font-size: var(--font-size-sm);
+  text-align: right;
+  opacity: 0.35;
+}
+.oldManIcon {
+  position: absolute;
+  top: 50px;
+  right: 27px;
+  border-radius: 26px;
+  width: 52px;
+  height: 52px;
+  object-fit: cover;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-segoe-ui);
+}
