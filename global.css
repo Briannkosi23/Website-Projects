@@ -1,0 +1,26 @@
+:root {
+  /* fonts */
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-sm: 20px;
+  --font-size-base: 28px;
+  --font-size-lg: 32px;
+  --font-size-xl: 82px;
+  --font-size-2xl: 133px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray-100: #616161;
+  --color-dimgray-200: #555;
+  --color-aqua: #03fcfc;
+  --color-gray-100: #7e7e7e;
+  --color-gray-200: #171717;
+  --color-gray-300: rgba(255, 255, 255, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0);
+  --color-gainsboro: #dcdcdc;
+  --color-lightgray: #d4d4d4;
+
+  /* border radiuses */
+  --br-md: 28px;
+}
